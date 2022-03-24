@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<meta charset="utf-8">
+<TITLE>Para Ti <3</TITLE>
+</HEAD>
+<BODY BGCOLOR="#00008B">
+<bgsound src="Alem†n - Down With Me feat. Emy Soul.mp3" loop="10"></bgsound>
+
+<TABLE BGCOLOR="#6A5ACD" frame="vsides">
+
+<CAPTION ALIGN="TOP"><FONT COLOR="#FFFF00" SIZE="5" FACE="Arial Rounded MT Bold"> <b> MI MÈSICA, CANTANTES Y ARTISTAS <br> FAVORITOS </CAPTION><br></b>
+
+<tr align="center"> <td> <a target="_blank" href="https://www.youtube.com/watch?v=lK3vClOwiEs&list=PL0HwpwsUFIQw0hSq51njqS6_WRG7Zj0nD">M£sica1</a></td> <td><a target="_blank" href="https://www.youtube.com/watch?v=utQI45s4yMs">Video1</a></td> <td><a targe
+
+<tr> <th BGCOLOR="white" Colspan="2"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> Cantantes Famosos </b></FONT> </th>
+<td width="8%"></td>
+<th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> Noticias </b></FONT> </th> <th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> Peliculas </b> </FONT></th></tr>
+
+<td align="center"><a href="https://www.youtube.com/watch?v=Hp__tcvnEnk" target="blank"> <img src="feid.jpg" width="350" height="250"></td>
+<td width="43%g"><FONT COLOR="white" SIZE="4" FACE="Arial Narrow" > Salomon Villada Hoyos (Medell°n, Colombia 19 de Agosto de 1992) m†s conocido por su nombre art°stico como Feid es un cantante y compositor colombiano. Naci¢ en Medell°n Colombia,y durant
+</tr>
+
+<td align="center"><a href="https://www.youtube.com/watch?v=ublf6qfpuuo" target="blank"> <img src="bad bunny.jpg" width="350" height="250"></td>
+<td width="43%"><FONT COLOR="white" SIZE="4" FACE="Arial Narrow"> Benito Antonio Mart°nez Ocasio (Vega Baja, San Juan, Puerto Rico; 10 de marzo de 1994), m†s conocido por su nombre art°stico Bad Bunny, es un cantante, rapero y trapero puertorrique§o de g
+</tr>
+
+<td align="center"><a href="https://www.youtube.com/watch?v=2j3x0VYnehg" target="blank"> <img src="rosalia.jpg" width="350" height="250"></td>
+<td width="43%"><FONT COLOR="white" SIZE="4" FACE="Arial Narrow"> Rosal°a Vila Tobella (San Esteban de Sasroviras, Barcelona; 25 de septiembre de 1993), conocida simplemente como Rosal°a, es una cantante, actriz, compositora y productora espa§ola. Ha sid
+</td> </tr>
+
+<td align="center"><a href="https://www.youtube.com/watch?v=xNdQ0Iw34wU" target="blank"> <img src="dalex.jpg" width="350" height="250"></td>
+<td width="43%"><FONT COLOR="white" SIZE="4" FACE="Arial Narrow"> Pedro David Daleccio Torres (Filadelfia, Estados Unidos, 7 de octubre de 1990), m†s conocido por su nombre art°stico Dalex, es un m£sico y cantante estadounidense. Anteriormente form¢ part
+
+
+</TABLE>
+</BODY>
+</HTML>
